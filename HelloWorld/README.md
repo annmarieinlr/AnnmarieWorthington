@@ -4,9 +4,8 @@ This is a Hello World program, which is typically the first program you write in
 
 I am using this to demonstrate how to integrate Visual Studio Code, Python, and GitHub.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/CAe1v5YzqSs)
 
 # Development Environment
 
